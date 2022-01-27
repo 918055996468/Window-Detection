@@ -294,6 +294,14 @@ source '0' for webcam
 
 <img src="https://github.com/918055996468/Window-Detection/blob/main/jetson_nano0.jpg" alt="Demo1" width="400" height="300">
 
+
+## Demo
+
+
+
+https://user-images.githubusercontent.com/71427764/151421181-ea23ecee-60e0-4f95-8066-cb4a24579c3f.mp4
+
+
 ## Advantages
 
 • The Window detection system will be of great advantage where a user has lack of time,
